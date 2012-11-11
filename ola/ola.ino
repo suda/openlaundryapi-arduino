@@ -14,8 +14,8 @@
 
 WiFiClient client;
 
-char ssid[] = "Video"; // your network SSID
-char pass[] = "blaipvideo"; // your network password
+char ssid[] = ""; // your network SSID
+char pass[] = ""; // your network password
 char device[] = "stara"; // your device ID
 char token[] = "testmatkozak"; // secret auth token
 int status = WL_IDLE_STATUS;
